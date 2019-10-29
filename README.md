@@ -1,3 +1,3 @@
 # voxresnet
 
-Voxresnet for <mri images
+Voxresnet for MRI images
